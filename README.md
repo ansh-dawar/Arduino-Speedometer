@@ -9,10 +9,7 @@ A real-time digital speedometer built using **Arduino UNO** that measures the sp
 
 ## 📽️ Demo Video
 
-<!-- Upload your video via GitHub Issues and paste the link below -->
-<!--  -->
-
-> 🎥 _Add your demo video here using the GitHub Issues upload trick_
+<-- https://github.com/ansh-dawar/Arduino-Speedometer/blob/main/Arduino__speedometer_video.mp4 -->
 
 ---
 
